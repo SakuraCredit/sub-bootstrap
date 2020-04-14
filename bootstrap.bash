@@ -16,4 +16,10 @@ main() {
     /bin/bash -c '"$HOME"/.sub/bin/hatch install-packages'
 }
 
+echo
+echo '=> Close and reopen your terminal, or run the following:'
+echo
+echo '(Bash) $ source ~/.bashrc'
+echo '(Zsh) % source ~/.zshenv'
+
 main
