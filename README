@@ -1,0 +1,1 @@
+curl -o- https://raw.githubusercontent.com/SakuraCredit/sub-bootstrap/master/bootstrap.bash | bash
